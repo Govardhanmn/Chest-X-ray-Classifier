@@ -27,35 +27,7 @@ PulmoCheck AI is an advanced, AI-powered diagnostic dashboard designed to analyz
 * **OpenCV (cv2)**: For image processing and anatomical analysis.
 * **NumPy & Pillow (PIL)**: For array manipulations and image handling.
 
-## Installation & Setup 🚀
-
-1. **Clone the repository** (if applicable) or download the project files.
-2. **Navigate to the project directory**:
-   ```bash
-   cd "Mini Projects/CNN"
-   ```
-3. **Install the required dependencies**. It is recommended to use a virtual environment:
-   ```bash
-   pip install streamlit tensorflow opencv-python-headless pillow numpy
-   ```
-4. **Run the Streamlit application**:
-   ```bash
-   streamlit run app.py
-   ```
-5. **Access the dashboard**: Open your browser and go to `http://localhost:8501`.
-
-## File Structure 📁
-
-* `app.py`: The main Streamlit application script containing the UI and inference logic.
-* `best_covid_model.h5`: The pre-trained Keras CNN model.
-* `COVID19_CNN_Project.ipynb`: Jupyter notebook containing the model training and experimentation.
-* `Covid19-dataset/`: Directory containing the training, validation, and testing images.
-
 ## Disclaimer ⚠️
 
 **AI-GENERATED SUGGESTION — FOR CLINICAL REVIEW ONLY. FINAL DIAGNOSIS IS A MEDICAL DECISION.**
 This tool is intended for educational and research purposes. It is not a substitute for professional medical advice, diagnosis, or treatment.
-
-## License 📄
-
-© 2026 PulmoCheck AI. All rights reserved.
