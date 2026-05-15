@@ -7,7 +7,7 @@ PulmoCheck AI is an advanced, AI-powered diagnostic dashboard designed to analyz
 
 ## Features ✨
 
-* **AI-Powered Diagnostics**: Utilizes a trained deep learning CNN model (`best_covid_model.h5`) to classify X-rays into three categories: COVID-19, Pneumonia, or Normal.
+* **AI-Powered Diagnostics**: Utilizes a trained deep learning CNN model to classify X-rays into three categories: COVID-19, Pneumonia, or Normal.
 * **Premium Dashboard**: A sleek, dark-themed UI with glassmorphism effects, custom typography, and responsive layouts for a professional user experience.
 * **Demo Samples**: Quick-load buttons for COVID-19, Normal, and Pneumonia scans located at the bottom left for rapid demonstration and testing.
 * **Scan Validation**: Automatically analyzes image orientation (AP/PA views) and inspiration quality (rib count detection) using OpenCV.
