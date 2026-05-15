@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.16.0
+numpy>=1.24.0,<2.0
+pandas
+scikit-learn
+plotly
+joblib
+Pillow
+opencv-python-headless
