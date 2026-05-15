@@ -14,9 +14,9 @@ if 'sample_img' not in st.session_state:
     st.session_state.sample_img = None
 
 SAMPLES = {
-    "COVID-19": "demo_samples/covid_demo.jpeg",
-    "Normal": "demo_samples/normal_demo.jpeg",
-    "Pneumonia": "demo_samples/pneumonia_demo.jpeg"
+    "COVID-19": "covid_demo.jpeg",
+    "Normal": "normal_demo.jpeg",
+    "Pneumonia": "pneumonia_demo.jpeg"
 }
 
 st.markdown("""
